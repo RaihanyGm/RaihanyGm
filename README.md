@@ -1,3 +1,9 @@
+💻 Desenvolvedora Back-end | Estudante de Engenharia de Software  
+🚀 Focada em **Node.js, MySQL, APIs e testes automatizados**  
+🔧 Conhecimentos em **Java**  
+🌎 Inglês intermediário | Espanhol básico  
+📚 Sempre aprendendo e explorando novas tecnologias  
+
 <div>
  <img height = "140em" src = "https://github-readme-stats.vercel.app/api?username=RaihanyGm&show_icons=true&theme=tokyonight&locale=pt-br"/>
  <img height = "140em" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=RaihanyGm&layout=compact&theme=tokyonight&locale=pt-br"/>
