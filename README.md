@@ -1,4 +1,4 @@
-💻 Desenvolvedora full stack | Estudante de Engenharia de Software  
+💻 Desenvolvedora Back-End | Estudante de Engenharia de Software  
 🚀 Focada em **Node.js, MySQL e APIs **  
 🔧 Conhecimentos em **Java**  
 🌎 Inglês intermediário | Espanhol básico  
